@@ -11,6 +11,8 @@
 - 🧰 Arduino and Raspberry pi everyday user.
 - ⚡ Fun fact: I'm a runner and a rugby passionate fan!
 
+From processing medical images, medical signal to air quality to learning how to use knowledge with programming languages effectively for the most basic problems to the most challenging. Always looking for problems to improve and optimize.
+
 ### Hey,do you want to know more about me? Follow me:
 [<img align="left" alt="mr_p_oliveira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mr_p_oliveira  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -24,7 +26,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/octave.svg"/>
+<img align="left" alt="Octave" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/octave.svg"/>
 <br />
 <br />
 
