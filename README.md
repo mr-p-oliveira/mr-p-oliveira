@@ -27,7 +27,10 @@ From processing medical images, medical signal to air quality to learning how to
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
 <img align="left" alt="Octave" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/octave.svg"/>
+<img align="left" alt="Octave" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/matlab.svg"/>
 <img align="left" alt="OpenCv" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/opencv.svg"/>
+<img align="left" alt="OpenCv" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/arduino.svg"/>
+
 <br />
 <br />
 
