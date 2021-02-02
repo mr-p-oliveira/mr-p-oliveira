@@ -2,7 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/mr_p_oliveira?label=Hey%21%20Follow%20me&style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/oliveiraexp?label=%20Reddit&style=social)
 
-## I'm a Biomedical Technology bachelor🦾
+## I'm a Biomedical Technology Bachelor🦾
 
 - 🚀 Currently working with Python and MySql.
 - 🎓 Seeking more knowledge in medical tech.
@@ -13,7 +13,7 @@
 
 From processing medical images, medical signal to air quality to learning how to use knowledge with programming languages effectively for the most basic problems to the most challenging. Always looking for problems to improve and optimize.
 
-### Hey,do you want to know more about me? Follow me:
+### Hey, do you want to know more about me? Follow me:
 [<img align="left" alt="mr_p_oliveira | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img align="left" alt="mr_p_oliveira  | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="mr_p_oliveira  | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
