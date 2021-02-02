@@ -11,7 +11,7 @@
 - 🧰 Arduino and Raspberry pi everyday user.
 - ⚡ Fun fact: I'm a runner and a rugby passionate fan!
 
-From processing medical images, medical signal to air quality to learning how to use knowledge with programming languages effectively for the most basic problems to the most challenging. Always looking for problems to improve and optimize.
+From processing medical images, medical signal to air quality learning everyday.Always up to solve a good ol problem so if you need help send me a message!
 
 ### Hey, do you want to know more about me? Follow me:
 [<img align="left" alt="mr_p_oliveira | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
