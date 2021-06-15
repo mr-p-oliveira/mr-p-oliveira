@@ -26,10 +26,10 @@ From processing medical images, medical signal to air quality learning everyday.
 <br />
 
 ### Follow me:
-[<img align="left" alt="mr_p_oliveira | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+
 [<img align="left" alt="mr_p_oliveira  | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="mr_p_oliveira  | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="mr_p_oliveira | Reddit" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />][reddit]
+
 
 <br />
 
@@ -38,7 +38,7 @@ From processing medical images, medical signal to air quality learning everyday.
 <br />
 <br />
 
-[twitter]: https://twitter.com/mr_p_oliveira/
+
 [instagram]: https://instagram.com/mr.p_oliveira/
 [linkedin]: https://linkedin.com/in/pedro-oliveira-510892204/
-[reddit]: https://www.reddit.com/user/oliveiraexp/posts/
+
