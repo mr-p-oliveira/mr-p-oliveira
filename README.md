@@ -13,14 +13,6 @@
 
 From processing medical images, medical signal to air quality learning everyday.Always up to solve a good ol problem so if you need help send me a message!
 
-### Hey, do you want to know more about me? Follow me:
-[<img align="left" alt="mr_p_oliveira | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
-[<img align="left" alt="mr_p_oliveira  | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-[<img align="left" alt="mr_p_oliveira  | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="mr_p_oliveira | Reddit" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />][reddit]
-
-<br />
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -30,6 +22,18 @@ From processing medical images, medical signal to air quality learning everyday.
 <img align="left" alt="Octave" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/matlab.svg"/>
 <img align="left" alt="OpenCv" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AIML/opencv.svg"/>
 <img align="left" alt="OpenCv" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/arduino.svg"/>
+
+<br />
+
+### Follow me:
+[<img align="left" alt="mr_p_oliveira | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="mr_p_oliveira  | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+[<img align="left" alt="mr_p_oliveira  | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="mr_p_oliveira | Reddit" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" />][reddit]
+
+<br />
+
+### Checkout my 🔗<a href="https://mr-p-oliveira.github.io/resumee/">web-site</a> (beta version)
 
 <br />
 <br />
