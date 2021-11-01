@@ -1,4 +1,4 @@
-### Hi! I'm Pedro 👋
+### Hi! I'm Pedro <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
 ![Twitter Follow](https://img.shields.io/twitter/follow/mr_p_oliveira?label=Hey%21%20Follow%20me&style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/oliveiraexp?label=%20Reddit&style=social)
 
