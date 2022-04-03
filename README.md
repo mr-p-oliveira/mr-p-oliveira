@@ -2,7 +2,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/mr_p_oliveira?label=Hey%21%20Follow%20me&style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/oliveiraexp?label=%20Reddit&style=social)
 
-## I'm a Biomedical Technology Bachelor🦾
+![Header](https://user-images.githubusercontent.com/76667289/161453518-c46a9d55-3d3d-45f4-8c6f-e0a18cedfb03.svg)
+## I'm a Biomedical Engineer🦾
 
 - 🚀 Currently working with Python and MySql.
 - 🎓 Seeking more knowledge in medical tech.
