@@ -8,12 +8,13 @@ I'm a biomedical engineer who specializes in using Python and SQL for data analy
 
 As a biomedical engineer, I focus on using technology to help improve patient outcomes and streamline processes in the healthcare industry. I work on developing software solutions that can help clinicians make more informed decisions, optimize patient care, and improve the overall quality of healthcare.
 
-My areas of expertise include:
+##My areas of expertise include
 
 - Data analysis and visualization: I'm skilled at using Python to analyze large datasets and create visualizations that help make complex data more accessible and understandable.
 
 - Algorithm development: I design and implement algorithms to solve specific problems in the healthcare industry, such as predicting patient outcomes, optimizing treatment plans, and improving disease diagnosis.
 
+##About me
 - 🚀 Currently working with Bash Scrip.
 - 🎓 Seeking more knowledge in medical tech.
 - 📋 Last work: "Assessment of the abundance and diversity of aeroallergens in the urban atmosphere of Bragança".
