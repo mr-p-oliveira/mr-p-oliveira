@@ -1,14 +1,23 @@
-### Hi! I'm Pedro <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
+### Hi there, I'm Pedro <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
 ![Twitter Follow](https://img.shields.io/twitter/follow/mr_p_oliveira?label=Hey%21%20Follow%20me&style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/oliveiraexp?label=%20Reddit&style=social)
 
-![Header](https://user-images.githubusercontent.com/76667289/161453518-c46a9d55-3d3d-45f4-8c6f-e0a18cedfb03.svg)
-## I'm a Biomedical Engineer🦾
+I'm a biomedical engineer who specializes in using Python and SQL for data analysis and software development. My expertise lies in developing algorithms and tools to help solve complex problems in the healthcare industry.
 
-- 🚀 Currently working with Python and MySql.
+##What I Do
+
+As a biomedical engineer, I focus on using technology to help improve patient outcomes and streamline processes in the healthcare industry. I work on developing software solutions that can help clinicians make more informed decisions, optimize patient care, and improve the overall quality of healthcare.
+
+My areas of expertise include:
+
+- Data analysis and visualization: I'm skilled at using Python to analyze large datasets and create visualizations that help make complex data more accessible and understandable.
+
+- Algorithm development: I design and implement algorithms to solve specific problems in the healthcare industry, such as predicting patient outcomes, optimizing treatment plans, and improving disease diagnosis.
+
+- 🚀 Currently working with Bash Scrip.
 - 🎓 Seeking more knowledge in medical tech.
 - 📋 Last work: "Assessment of the abundance and diversity of aeroallergens in the urban atmosphere of Bragança".
-- 🥅 2021 Goals: Improve code hability and go full Linux.
+- 🥅 2023 Goals: Finish my masters in Biomed Eng.
 - 🧰 Arduino and Raspberry pi everyday user.
 - ⚡ Fun fact: I'm a runner and a rugby passionate fan!
 
