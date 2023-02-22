@@ -22,8 +22,6 @@ As a biomedical engineer, I focus on using technology to help improve patient ou
 - 🧰 Arduino and Raspberry pi everyday user.
 - ⚡ Fun fact: I'm a runner and a rugby passionate fan!
 
-From processing medical images, medical signal to air quality learning everyday.Always up to solve a good ol problem so if you need help send me a message!
-
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
